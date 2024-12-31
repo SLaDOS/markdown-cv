@@ -1,4 +1,7 @@
-## layout: cv title: Nachuan Xu's CV
+---
+layout: cv 
+title: Nachuan Xu's CV
+---
 
 # Nachuan Xu
 
