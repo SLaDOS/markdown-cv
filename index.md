@@ -9,8 +9,9 @@ title: Nachuan Xu's CV
 
 Achieved master's degree in Informatics at the University of Edinburgh with experience in critical evaluation, machine learning and robotics.
 
-<div id="emailaddress">
-<a href="nashdrovin@gmail.com">nashdrovin@gmail.com</a>
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
