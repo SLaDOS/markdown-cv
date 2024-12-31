@@ -12,7 +12,7 @@ title: Nachuan Xu's CV
 | <a>+86 18796802080</a>
 </div>
 
-Achieved master's degree in Informatics at the University of Edinburgh with experience in critical evaluation, machine learning and robotics.
+Achieved master's degree in Design Informatics at the University of Edinburgh with experience in designing, statistics, machine learning and robotics.
 
 ## Education
 
