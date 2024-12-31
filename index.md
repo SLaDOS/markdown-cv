@@ -7,13 +7,12 @@ title: Nachuan Xu's CV
 
 **BMgmt MSc**
 
-Achieved master's degree in Informatics at the University of Edinburgh with experience in critical evaluation, machine learning and robotics.
-
 <div id="webaddress">
 <a href="nashdrovin@gmail.com">nashdrovin@gmail.com</a>
 | <a>+86 18796802080</a>
 </div>
 
+Achieved master's degree in Informatics at the University of Edinburgh with experience in critical evaluation, machine learning and robotics.
 
 ## Education
 
@@ -41,13 +40,13 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 • Statistics and Econometrics are also related as main courses.
 
-• Dissertation was relevant to Integrating Learning and Multimodal Learning.
+• Dissertation was relevant to Integrating and Multimodal Learning.
 
 ## Skills
 
 • Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
 
-• Good at **Python**, as it has been the main coding language for three years, and most courses were in Python. Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
+• Good at **Python**. Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
 
 • Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
 
