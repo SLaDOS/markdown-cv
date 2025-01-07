@@ -45,13 +45,15 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 ## Skills
 
-• Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
+- Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
 
-• Good at **Python**. Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
+- Good at **Python**. 
 
-• Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
+- Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
 
-• Data Science. Had several related courses. Familiar with Pandas and visualization.
+- Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
+
+- Data Science. Had several related courses. Familiar with Pandas and visualization.
 
 ## Awards
 
@@ -78,6 +80,6 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 ## Interests
 
-Tennis player, hiker and horseback rider (novice). Highly interested in new stuff.
+Tennis, hiking, horseback riding. Currently learning snowboarding.
 
 These interests developed my interpersonal and communication skills.
