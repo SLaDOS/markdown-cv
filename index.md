@@ -112,7 +112,7 @@ Birth date: 17 January 2001
 
 Citizenship: China Mainland
 
-Residence: Suzhou, China
+Residence: Suzhou, Jiangsu, China
 
 
 
