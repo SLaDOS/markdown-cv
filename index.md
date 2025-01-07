@@ -47,7 +47,7 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 - Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
 
-- Good at **Python**. 
+- Fimiliar with **Python**, as it has been the main language of the most courses and projects.  
 
 - Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
 
