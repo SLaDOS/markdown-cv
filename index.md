@@ -60,7 +60,7 @@ Intern at the Internet Security Department
 
 • Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
 
-• Robotics. Able to use ROS2 to control robots and navigate. 
+• Robotics. Able to use ROS2 to control and navigate robots. 
 
 • Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
 
