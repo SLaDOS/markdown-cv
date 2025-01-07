@@ -5,7 +5,7 @@ title: Nachuan Xu's CV
 
 # Nachuan Xu
 
-**BMgmt MSc**
+**MSc BMgmt**
 
 <div id="webaddress">
 <a href="nashdrovin@gmail.com">nashdrovin@gmail.com</a>
@@ -16,7 +16,8 @@ Achieved master's degree in Design Informatics at the University of Edinburgh wi
 
 ## Education
 
-### Master
+### Master of Science in Design Informatics (with Merit)
+
 
 `2023 - 2024`__University of Edinburgh, Scotland__
 
