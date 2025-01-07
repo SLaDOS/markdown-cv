@@ -51,8 +51,6 @@ Intern at the Precision Measurement Department
 `Jul 2021 - Aug 2021`**Hillstone Networks Co., Ltd. (Headquarter in Suzhou)**
 Intern at the Internet Security Department
 
-`Sep 2023 - Now`**
-
 
 ## Skills
 
