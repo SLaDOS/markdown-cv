@@ -29,7 +29,7 @@ Key modules include: Design Method and Ethic Analysis, Case-studies of Design In
 
 • Able to connect data-driven technology with contexts and domains, such as societal challenges and sustainable development goals, health and care, and fashion.
 
-• Dissertation was on an Insect-inspired robot navigation using a celestial compass.
+• Dissertation was on an Insect-inspired robot, which can navigate by a celestial compass and ROS2.
 
 ### Bachelor
 
@@ -50,6 +50,8 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 • Familiar with **Python**, as it has been the main language of most courses and projects.
 
 • Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
+
+• Robotics. Able to use ROS2 to control robots and navigate. 
 
 • Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
 
