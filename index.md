@@ -25,9 +25,9 @@ Achieved master's degree in Design Informatics at the University of Edinburgh wi
 
 Key modules include: Design Method and Ethic Analysis, Case-studies of Design Informatics, Game Theory
 
-• Able to conduct ethical research in Design Informatics and critically evaluate research literature in the field, taking into account legal, social, ethical or professional issues.
+• Conduct ethical research in Design Informatics and critically evaluate research literature in the field, taking into account legal, social, ethical or professional issues.
 
-• Able to connect data-driven technology with contexts and domains, such as societal challenges and sustainable development goals, health and care, and fashion.
+• Connect data-driven technology with contexts and domains, such as societal challenges and sustainable development goals, health and care, and fashion.
 
 • Dissertation was on an Insect-inspired robot, which can navigate by a celestial compass and ROS2.
 
