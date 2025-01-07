@@ -14,14 +14,14 @@ title: Nachuan Xu's CV
 
 Achieved master's degree in Design Informatics at the University of Edinburgh with experience in designing, statistics, machine learning and robotics.
 
+
 ## Education
 
-### Master of Science in Design Informatics (with Merit)
-
+### Master
 
 `2023 - 2024`__University of Edinburgh, Scotland__
 
-*Design Informatics*
+*Master of Science in Design Informatics (with Merit)*
 
 Key modules include: Design Method and Ethic Analysis, Case-studies of Design Informatics, Game Theory
 
@@ -35,7 +35,7 @@ Key modules include: Design Method and Ethic Analysis, Case-studies of Design In
 
 `2019 - 2023`**Nanjing University of Aeronautics and Astronautics, China**
 
-*Information Management and Information Systems* 90% awarded
+*Bachelor of Management in Information Management and Information Systems (90% awarded)*
 
 Key modules include: Information Systems Analysis and Design, Algorithm Design and Analysis, Data Structure, Big Data Analysis
 
@@ -60,6 +60,15 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 **Mathematical Contest in Modelling (MCM)**
 
 *Honourable Mention*
+
+• Predicted the rise and fall in price for gold and bitcoin by machine learning, and made buying and selling decisions accordingly;
+
+• Responsible for the drawing of all the pictures in the project using tools such as Matplotlib and Seaborn;
+
+• Shared tasks for teammates such as feature engineering and testing the effects of a single model (XGBoost);
+
+• Coordinated team efforts and helped solve disputes among team members
+
 
 ## Motivation
 
