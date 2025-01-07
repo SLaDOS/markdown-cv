@@ -80,6 +80,13 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 • Attracted by international cultures that are involved in worldwide cooperation.
 
+
+## Languages
+
+Native: Chinese
+
+Fluent: English
+
 ## Interests
 
 Tennis, hiking, horseback riding. Currently learning snowboarding.
