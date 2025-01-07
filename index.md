@@ -56,9 +56,9 @@ Intern at the Internet Security Department
 
 • Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
 
-• Familiar with **Python**, as it has been the main language of most courses and projects.
+• Familiar with Python, as it has been the main language of most courses and projects.
 
-• Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
+• Also able to code with C and Java and have the confidence to get started with other languages quickly.
 
 • Robotics. Able to use ROS2 to control and navigate robots. 
 
