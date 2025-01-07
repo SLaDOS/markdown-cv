@@ -12,7 +12,7 @@ title: Nachuan Xu's CV
 | <a>+86 18796802080</a>
 </div>
 
-Achieved master's degree in Design Informatics at the University of Edinburgh with experience in designing, statistics, machine learning and robotics.
+Achieved master's degree in Design Informatics at the University of Edinburgh with experience in design, statistics, machine learning and robotics.
 
 
 ## Education
@@ -29,9 +29,7 @@ Key modules include: Design Method and Ethic Analysis, Case-studies of Design In
 
 • Able to connect data-driven technology with contexts and domains, such as societal challenges and sustainable development goals, health and care, and fashion.
 
-#### Dissertation 
-
-was on an Insect-inspired robot navigation using a celestial compass.
+• Dissertation was on an Insect-inspired robot navigation using a celestial compass.
 
 ### Bachelor
 
@@ -49,7 +47,7 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 • Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
 
-• Fimiliar with **Python**, as it has been the main language of the most courses and projects.
+• Familiar with **Python**, as it has been the main language of most courses and projects.
 
 • Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
 
@@ -65,13 +63,13 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 *Honourable Mention*
 
-• Predicted the rise and fall in price for gold and bitcoin by machine learning, and made buying and selling decisions accordingly;
+• Predicted the rise and fall in price for gold and bitcoin by machine learning, and made buying and selling decisions accordingly.
 
-• Responsible for the drawing of all the pictures in the project using tools such as Matplotlib and Seaborn;
+• Responsible for the drawing of all the pictures in the project using tools such as Matplotlib and Seaborn.
 
-• Shared tasks for teammates such as feature engineering and testing the effects of a single model (XGBoost);
+• Shared tasks for teammates such as feature engineering and testing the effects of a single model (XGBoost).
 
-• Coordinated team efforts and helped solve disputes among team members
+• Coordinated team efforts and helped solve disputes among team members.
 
 
 ## Motivation
