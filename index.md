@@ -43,6 +43,15 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 • Dissertation was relevant to Integrating and Multimodal Learning.
 
+## Internships
+
+`Aug 2021 - Sep 2021`**Suzhou Jiaqishi Information Technology Co., Ltd.**
+Intern at the Precision Measurement Department                    
+
+`Jul 2021 - Aug 2021`**Hillstone Networks Co., Ltd. (Headquarter in Suzhou)**
+Intern at the Internet Security Department
+
+
 ## Skills
 
 • Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
