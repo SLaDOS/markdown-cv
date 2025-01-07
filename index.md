@@ -76,7 +76,7 @@ Intern at the Internet Security Department
 
 • Predicted the rise and fall in price for gold and bitcoin by machine learning, and made buying and selling decisions accordingly.
 
-• Responsible for the drawing of all the pictures in the project using tools such as Matplotlib and Seaborn.
+• Responsible for making all the figures in the project using tools such as Matplotlib and Seaborn.
 
 • Shared tasks for teammates such as feature engineering and testing the effects of a single model (XGBoost).
 
@@ -95,6 +95,8 @@ Intern at the Internet Security Department
 Native: Chinese
 
 Fluent: English
+
+Basic: Japanese
 
 ## Interests
 
