@@ -45,15 +45,15 @@ Key modules include: Information Systems Analysis and Design, Algorithm Design a
 
 ## Skills
 
-- Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
+• Multi-domain experiences in Informatics, Statistics, Econometrics and Design.
 
-- Fimiliar with **Python**, as it has been the main language of the most courses and projects.  
+• Fimiliar with **Python**, as it has been the main language of the most courses and projects.  
 
-- Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
+• Also able to code with **C** and **Java** and have the confidence to get started with other languages quickly.
 
-- Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
+• Self-learnt Git, and Linux as preparation for future careers. Able to deploy servers.
 
-- Data Science. Had several related courses. Familiar with Pandas and visualization.
+• Data Science. Had several related courses. Familiar with Pandas and visualization.
 
 ## Awards
 
