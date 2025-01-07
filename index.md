@@ -52,6 +52,9 @@ Intern at the Precision Measurement Department
 
 Intern at the Internet Security Department
 
+`Sep 2024 - Now`**Suzhou High-tech Modern Service Industry Investment Promotion Center Co., Ltd.**
+
+Intern at the Business Department
 
 ## Skills
 
